@@ -1,6 +1,6 @@
 # Hi there 👋
 
-This is my GitHub where I share everything that I know as project structure, setup project, and some tips and tricks which I have experience with. Hope you like these interesting repositories. Thanks for visiting my Git Hub.
+This is my GitHub where I share everything that I know as project structure, setup project, and some tips and tricks which I have experience with. Hope you like these interesting repositories. Thanks for visiting my Github.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
